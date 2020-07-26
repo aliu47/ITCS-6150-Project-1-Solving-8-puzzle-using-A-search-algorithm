@@ -1,4 +1,3 @@
-Andrew Liu
 ITCS 6150 Project 1: Solving 8-puzzle using A* search algorithm
 
 Overview:
